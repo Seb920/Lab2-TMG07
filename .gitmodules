@@ -1,0 +1,3 @@
+[submodule "actividad"]
+	path = actividad
+	url = https://github.com/Seb920/ActividadLab2.git
