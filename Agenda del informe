@@ -1,0 +1,8 @@
+Actividad
+
+1. En Android Studio, crea un nuevo proyecto Empty View Activity de Nombre: Moneda
+
+Ejercicios
+
+1. Cree una aplicación que permita realizar conversiones entre distintos tipos de monedas. Considere divisas como: Euro (Europa), Libra (Inglaterra), Rupia (India), Real (Brasil), Peso (México), Yuan (China) y Yen (Japón), además del dólar y nuevo sol. 
+2. Elabore una aplicación que implemente un objeto GridView para que muestre una grilla de imágenes sobre los distintos tipos de pizzas y que muestre el nombre de la pizza al hacer click.
