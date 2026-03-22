@@ -4,3 +4,6 @@
 [submodule "Ejercicio1Lab2"]
 	path = Ejercicio1Lab2
 	url = https://github.com/Seb920/monedas.git
+[submodule "Ejercicio2Lab2"]
+	path = Ejercicio2Lab2
+	url = https://github.com/Seb920/pizzas.git
