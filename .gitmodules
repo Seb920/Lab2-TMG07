@@ -1,3 +1,6 @@
 [submodule "ActividadLab2"]
 	path = ActividadLab2
 	url = https://github.com/Seb920/moneda.git
+[submodule "Ejercicio1Lab2"]
+	path = Ejercicio1Lab2
+	url = https://github.com/Seb920/monedas.git
